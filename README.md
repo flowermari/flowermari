@@ -1,4 +1,5 @@
 ## Hi there 👋
+##  sou maria flor e estou no curso técnico de informatica ;)
 
 <!--
 **flowermari/flowermari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
